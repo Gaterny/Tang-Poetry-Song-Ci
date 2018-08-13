@@ -1,6 +1,6 @@
 #### 唐诗宋词 API
 
-基于Django2.0和Djangorestframework的api，数据来源于[**chinese-poetry**][https://github.com/chinese-poetry/chinese-poetry]
+基于Django2.0和Djangorestframework的api，数据来源于[**chinese-poetry**](https://github.com/chinese-poetry/chinese-poetry)
 
 ##### 使用方法
 
